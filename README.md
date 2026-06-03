@@ -19,8 +19,7 @@ Trabalho na criação de ferramentas voltadas para a automação de processos e 
 
 ### Estatísticas do GitHub:
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansnn&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansnn&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeansnn&theme=dracula" alt="Estatísticas de Frequência" />
 </p>
 
 ### Conecte-se comigo:
