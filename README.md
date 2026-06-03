@@ -20,9 +20,9 @@ Trabalho na criação de ferramentas voltadas para a automação de processos e 
 ### Conecte-se comigo:
 <p align="left">
    <a href="https://www.linkedin.com/in/jeansnn/" target="_blank">
-     <img src="https://images.icon-icons.com/1043/PNG/512/social_media_icons_flat_shadow_set_512x512_0010_linkedin_icon-icons.com_76459.png" alt="LinkedIn" />
+     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" alt="LinkedIn" />
    </a>
    <a href="https://www.instagram.com/jean.snn1/" target="_blank">
-     <img src="https://images.icon-icons.com/4048/PNG/512/instagram_logo_icon_257003.png" alt="LinkedIn" />
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn" />
    </a>
 </p>
