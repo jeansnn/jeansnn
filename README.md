@@ -7,7 +7,6 @@ Trabalho na criação de ferramentas voltadas para a automação de processos e 
 ### O que eu faço:
 - **Desenvolvimento Web:** Crio sistemas focados em produtividade, como aplicações PWA para gerenciamento e relatórios do agronegócio.
 - **Ferramentas e Automação:** Construo soluções automatizadas para facilitar a roteirização, edição e sincronização de vídeos em canais do YouTube.
-- **Tecnologia de Campo:** Atuo com operação de drones voltada à agricultura de precisão.
 
 ### Tecnologias e Ferramentas:
 <p align="left">
