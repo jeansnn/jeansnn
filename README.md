@@ -17,6 +17,12 @@ Trabalho na criação de ferramentas voltadas para a automação de processos e 
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
+### Estatísticas do GitHub:
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansnn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansnn&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+</p>
+
 ### Conecte-se comigo:
 <p align="left">
    <a href="https://www.linkedin.com/in/jeansnn/" target="_blank">
