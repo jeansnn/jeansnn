@@ -17,18 +17,12 @@ Trabalho na criação de ferramentas voltadas para a automação de processos e 
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### Estatísticas do GitHub:
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansnn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansnn&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
-</p>
-
 ### Conecte-se comigo:
 <p align="left">
    <a href="https://www.linkedin.com/in/jeansnn/" target="_blank">
-     <img src="https://img.shields.io/badge/Contato-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="LinkedIn" />
    </a>
    <a href="https://www.instagram.com/jean.snn1/" target="_blank">
-     <img src="https://img.shields.io/badge/Contato-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbnnLuoUQUkbjl12fbJ63azdzI0EcGRlJG-g&s" alt="LinkedIn" />
    </a>
 </p>
