@@ -1,12 +1,12 @@
 # Olá, eu sou Jean! 
 
-Sou Desenvolvedor de Software e Criador de Conteúdo, atualmente cursando Análise e Desenvolvimento de Sistemas. 🎓💻
+Sou Desenvolvedor de Software e Criador de Conteúdo, atualmente cursando Análise e Desenvolvimento de Sistemas. 
 
 Trabalho na criação de ferramentas voltadas para a automação de processos e gestão de negócios, unindo a tecnologia à produtividade prática, tanto no campo quanto no universo digital de canais *dark*.
 
 ### O que eu faço:
 - **Desenvolvimento Web:** Crio sistemas focados em produtividade, como aplicações PWA para gerenciamento e relatórios do agronegócio.
-- **Ferramentas e Automação:** Construo soluções automatizadas (como o **Cine Studio 2.0**) para facilitar a roteirização, edição e sincronização de vídeos em canais do YouTube (como o **Ascensão Pessoal**).
+- **Ferramentas e Automação:** Construo soluções automatizadas para facilitar a roteirização, edição e sincronização de vídeos em canais do YouTube.
 - **Tecnologia de Campo:** Atuo com operação de drones voltada à agricultura de precisão.
 
 ### Tecnologias e Ferramentas:
